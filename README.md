@@ -1,2 +1,1 @@
-# revolut-android-abhinav
-Revolut Currency Exchange Task
+#Revolut Currency Exchange Task
